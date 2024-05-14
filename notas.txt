@@ -1,0 +1,7 @@
+https://api.themoviedb.org/3/movie/11?api_key=fc42fe180e7e9152684e797af00148c6
+https://api.themoviedb.org/3/movie/popular?api_key=fc42fe180e7e9152684e797af00148c6
+
+vodeos
+https://api.themoviedb.org/3/movie/663712/videos?api_key=fc42fe180e7e9152684e797af00148c6&language=en-US
+
+https://api.themoviedb.org/3/search/movie?api_key=fc42fe180e7e9152684e797af00148c6&query=batman&include_adult=false
